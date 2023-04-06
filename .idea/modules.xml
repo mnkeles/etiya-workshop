@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/arkadasSayilar/arkadasSayilar.iml" filepath="$PROJECT_DIR$/workshop-day1/arkadasSayilar/arkadasSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/workshop-day1/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/workshop-day1/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/workshop-day1/dataTypes/dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/etiya-workshop.iml" filepath="$PROJECT_DIR$/.idea/etiya-workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/javaHelloWorld/javaHelloWorld.iml" filepath="$PROJECT_DIR$/workshop-day1/javaHelloWorld/javaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/workshop-day1/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/methods/methods.iml" filepath="$PROJECT_DIR$/workshop-day1/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/methods-2/methods-2.iml" filepath="$PROJECT_DIR$/workshop-day1/methods-2/methods-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/miniProjeAsalSayi/miniProjeAsalSayi.iml" filepath="$PROJECT_DIR$/workshop-day1/miniProjeAsalSayi/miniProjeAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/workshop-day1/mukemmelSayi/mukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/workshop-day1/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/workshop-day1/reCapDemo2/reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/workshop-day1/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/workshop-day1/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/sesliHarfler/sesliHarfler.iml" filepath="$PROJECT_DIR$/workshop-day1/sesliHarfler/sesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/workshop-day1/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/workshop-day1/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-day1/variables/variables.iml" filepath="$PROJECT_DIR$/workshop-day1/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
